@@ -5,4 +5,11 @@
     font-family: 'Ubuntu', 'Noto Sans CJK JP';
 }
 
-/* Applies to: URLs matching regex:  (?!.*docs\.google).* */
+/* 
+Applies to: 
+  URLs matching regex:
+  (?!.*[docs\.google|wordpress\.com]).*
+
+--
+Not apply to Google Docs/Slides/Sheets or WordPress.com
+*/
