@@ -1,3 +1,12 @@
 .editor-styles-wrapper {
     font-family: "Ubuntu", "Noto Sans CJK JP",sans-serif;
 }
+
+.editor-styles-wrapper code {
+    background-color: #f0f0f0;
+	padding: 0.1em;
+	border-radius: 3px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #ccc;
+}
