@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400&display=swap');
 
-* {
+body:not(pre) {
     font-family: 'Ubuntu', 'Noto Sans CJK JP';
 }
 
