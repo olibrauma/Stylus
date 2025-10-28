@@ -1,0 +1,9 @@
+.notion-link-token {
+    color: blue !important;
+}
+
+.notion-link-token::after {
+    content: "↗︎";
+    vertical-align: top; /* 'top' も試してみてください */
+    font-size: small;
+}
